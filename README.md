@@ -134,7 +134,7 @@
   
   ![Fiddler](https://github.com/Meiliger/Fiddler/blob/main/Screenshots%20and%20Videos/AutoRespender/Redirect.png)
   
-  [![Fiddler]()](https://drive.google.com/file/d/14_8q0qR81Ac0EZP0Nz6m5t2TbB5ssvVF/view?usp=share_link)
+  [![Fiddler](https://github.com/Meiliger/Fiddler/blob/main/Screenshots%20and%20Videos/Intro/Redirect%202.png)](https://drive.google.com/file/d/14_8q0qR81Ac0EZP0Nz6m5t2TbB5ssvVF/view?usp=share_link)
 </details>
 
 *2. Mock a 404 server response code on google.com*
@@ -164,7 +164,7 @@
 <details>
   <summary>Video</summary>
   
-  [![Fiddler]()](https://drive.google.com/file/d/1tUoOwTkT0vDoxw76zX3yGNPShs-2LbF0/view?usp=share_link)
+  [![Fiddler](https://github.com/Meiliger/Fiddler/blob/main/Screenshots%20and%20Videos/Intro/Delay.png)](https://drive.google.com/file/d/1tUoOwTkT0vDoxw76zX3yGNPShs-2LbF0/view?usp=share_link)
 </details>
 
 *5. Emulation of how the site will look like if the user has disabled receiving images*
@@ -174,7 +174,7 @@
 <details>
   <summary>Video</summary>
   
-  [![Fiddler]()](https://drive.google.com/file/d/1zayco96z1n5PpawtxT4ZICB0eJIUt2O2/view?usp=share_link)
+  [![Fiddler](https://github.com/Meiliger/Fiddler/blob/main/Screenshots%20and%20Videos/Intro/Replace%20image.png)](https://drive.google.com/file/d/1zayco96z1n5PpawtxT4ZICB0eJIUt2O2/view?usp=share_link)
 </details>
 
 *6. header:Name=Value - set the Request header with the given Name to the specfied value. If no header of that name exists, a new header will be created*
@@ -190,7 +190,7 @@
   
   ![Fiddler](https://github.com/Meiliger/Fiddler/blob/main/Screenshots%20and%20Videos/AutoRespender/change%20header%20on%20google%202.png)
   
-  [![Fiddler]()](https://drive.google.com/file/d/1P5QY69B_7g5ffh8bUG40GNu5BV-d_QtG/view?usp=share_link)
+  [![Fiddler](https://github.com/Meiliger/Fiddler/blob/main/Screenshots%20and%20Videos/Intro/Change%20header%20on%20google%203.png)](https://drive.google.com/file/d/1P5QY69B_7g5ffh8bUG40GNu5BV-d_QtG/view?usp=share_link)
 </details>
 
 *7. bpu - break on request before hitting server*
@@ -238,7 +238,7 @@
   
   ![Fiddler](https://github.com/Meiliger/Fiddler/blob/main/Screenshots%20and%20Videos/AutoRespender/replace%20image%203.png)
   
-  [![Fiddler]()](https://drive.google.com/file/d/18sHXlEyRkb7x1dGspKjiDj3-WjDUbhrb/view?usp=share_link)
+  [![Fiddler](https://github.com/Meiliger/Fiddler/blob/main/Screenshots%20and%20Videos/Intro/Replace%20image.png)](https://drive.google.com/file/d/18sHXlEyRkb7x1dGspKjiDj3-WjDUbhrb/view?usp=share_link)
 </details>
 
 *10. Block access to adult content*
