@@ -53,7 +53,7 @@
   ![Fiddler](https://github.com/Meiliger/Fiddler/blob/main/Screenshots%20and%20Videos/Pet/Update%20pet%20with%20form%20data%20-%20Fiddler.png)
 </details>
 
-*6. Delete a pet*
+*6. Delete pet*
 
 <details>
   <summary>Screenshots</summary>
@@ -113,7 +113,7 @@
   ![Fiddler](https://github.com/Meiliger/Fiddler/blob/main/Screenshots%20and%20Videos/User/Get%20user%20by%20user%20name%202.png)
 </details>
 
-*6. Delete a user*
+*6. Delete user*
 
 <details>
   <summary>Screenshots</summary>
